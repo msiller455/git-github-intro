@@ -8,3 +8,8 @@ const name = "michael"
 function sayHello() {
   console.log(`Hello ${name}`)
 }
+
+// Write a function that takes two nums and returns their sum
+function addNums(num1, num2) {
+  return num1 + num2
+}
